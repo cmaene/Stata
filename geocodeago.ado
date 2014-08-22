@@ -3,8 +3,8 @@
 * you need to generate two API key info - 
 * how to: http://resources.arcgis.com/en/help/arcgis-rest-api/index.html#//02r300000268000000
 * For example....
-* chieko's client_id = Bg9nOmlPqocZeMrZ
-* chieko's client_secret = 872813c757284debb4a6d93e2b97223c
+* chieko's client_id = **************************
+* chieko's client_secret = **************************
 ********************************************************************************
 program geocodeago
 	version 13.0
