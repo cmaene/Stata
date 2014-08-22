@@ -10,9 +10,9 @@ program geocodeago
 	version 13.0
 	syntax, [address(string) city(string) state(string) zip(string) cid(string) secret(string)]
 	* example:
-	* geocodeago, address(address) city(city) state(state) zip(zip) cid("Bg9nOmlPqocZeMrZ") secret("872813c757284debb4a6d93e2b97223c")
+	* geocodeago, address(address) city(city) state(state) zip(zip) cid("************") secret("************")
 	* another example using cmaene_UChicago account:
-	* geocodeago, address(address) city(city) state(state) zip(zip) cid("vMsWnzQY9z7EnmOM") secret("2937af2d56a240dc80e00066dcef210d")
+	* geocodeago, address(address) city(city) state(state) zip(zip) cid("************") secret("************")
 
 	* create a token for the entire operation
 	* default token expiration time is 7200 minutes (or 120 hours), as of 2-19-2014
