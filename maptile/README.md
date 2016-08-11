@@ -1,8 +1,8 @@
 ### maptile geography templates for sharing
 
-[Maptile](https://michaelstepner.com/maptile/geographies/) is an awesome Stata program that makes choropleth mapping and was developed by Michael Stepner.
+[Maptile](https://michaelstepner.com/maptile/) is an awesome Stata program that makes choropleth mapping easy and was developed by Michael Stepner.
 
-These are additional geography files to work with maptile program - the same files will be soon available from Michael's [Maptile](https://michaelstepner.com/maptile/geographies/) site!
+These are additional geography files to work with maptile program - the same files will be available from Michael's [Maptile](https://michaelstepner.com/maptile/geographies/) site!
 
 ####Files
 * maptile_counties_steps.do:	read this to learn how to run the program with the files.
